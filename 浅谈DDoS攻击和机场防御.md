@@ -38,7 +38,7 @@
 
 <div align=center><img src="https://github.com/mayjack0312/image/blob/main/image18.png"></div>
 
-根据CF 2021年第四季度的DDoS态势分析，从全球流量分布来看，中国和美国是DDoS受灾的重灾区。
+- 根据CF 2021年第四季度的DDoS态势分析，从全球流量分布来看，中国和美国是DDoS受灾的重灾区。
 
 ### DDoS攻击的工作原理是什么？
 
@@ -87,7 +87,7 @@ DDoS攻击分为许多不同类型，攻击者经常混合使用多种攻击来�
 
 <div align=center><img src="https://github.com/mayjack0312/image/blob/main/OSI%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B.png"></div>
 
-<center>L4即传输层，L7即应用层</center>
+- L4即传输层，L7即应用层
 
 ### DDoS攻击中涉及的OSI模型中的七个网络连接层
 
