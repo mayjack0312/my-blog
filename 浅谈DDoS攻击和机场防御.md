@@ -28,7 +28,7 @@
 就是数量庞大的僵尸程序（Bot）通过一定方式组合，出于恶意目的，采用一对多的方式进行控制的大型网络，也可以说是一种复合性攻击方式。因为僵尸主机的数量很大而且分布广泛，所以危害程度和防御难度都很大。
 僵尸网络具备高可控性，控制者可以在发布指令后，就断开与僵尸网络的连接，而控制指令会自动在僵尸程序间传播执行。
 
-![image](https://github.com/mayjack0312/image/blob/main/6be4a821627408df56db22cf0a56fcf4_ececa29f98fa3e91d3fbd781f391a23b.jpg)
+<div align=center><img src="https://github.com/mayjack0312/image/blob/main/6be4a821627408df56db22cf0a56fcf4_ececa29f98fa3e91d3fbd781f391a23b.jpg"></div>
 
 这就像个生态系统一样。对安全研究人员来说，通过捕获一个节点虽然可以发现此僵尸网络的许多僵尸主机，但很难窥其全貌，而且即便封杀一些僵尸主机，也不会影响整个僵尸网络的生存。
 
@@ -36,7 +36,7 @@
 
 正所谓“以史为鉴，可以知兴替”。既然大概了解了DDoS，咱们说说它的历史发展。最早的时候，黑客们大都是为了炫耀个人技能，所以攻击目标选择都很随意，娱乐性比较强。后来，有一些宗教组织和商业组织发现了这个攻击效果，就以勒索、报复等方式为目的，对特定目标进行攻击，并开发一些相应的工具，保证攻击成本降低。当国家级政治势力意识到这个价值的时候，DDoS就开始被武器化，很容易就被用于精确目标的网络战争中。
 
-![image](https://github.com/mayjack0312/image/blob/main/image18.png)
+<div align=center><img src="https://github.com/mayjack0312/image/blob/main/image18.png"></div>
 
 根据CF 2021年第四季度的DDoS态势分析，从全球流量分布来看，中国和美国是DDoS受灾的重灾区。
 
@@ -65,7 +65,8 @@ DDoS攻击利用接入互联网上的设备构成的彼此连接的网络，切�
     创建TCP连接需要客户端与服务器进行三次交互，也就是常说的“三次握手”。这个信息通常被保存在连接表结构中，但是表的大小有限，所以当超过存储量，服务器就无法创建新的TCP连接。
     攻击者利用这一点，用受控主机建立大量恶意的TCP连接，占满被攻击目标的连接表，使其无法接受新的TCP连接请求。如果攻击者发送了大量的TCP SYN报文，让服务器在短时间内产生大量的半开连接，连接表也会被很快占满，导致无法建立新的TCP连接，这个方式是SYN洪水攻击，很多攻击者都比较常用。
 
-![image](https://github.com/mayjack0312/image/blob/main/83f268b19c1caa273f82e67c9a8d13d.jpg)
+
+<div align=center><img src="https://github.com/mayjack0312/image/blob/main/83f268b19c1caa273f82e67c9a8d13d.jpg"></div>
 
 #### 3.攻击应用
 
@@ -84,7 +85,7 @@ DDoS攻击分为许多不同类型，攻击者经常混合使用多种攻击来�
 为了进一步探究DDoS攻击的工作原理，我们来具体分析一下攻击者可能采取的不同攻击途径。开放系统互连模型也叫做“OSI模型”，它是各种网络标准的分层式框架，包含七个不同层次。OSI模型的每一层都有独特的用途，就像一栋办公楼中每个楼层都有不同的业务功能。攻击者根据他们想要破坏的网络或面向互联网的资产类型，针对不同的层次发起攻击。
 **DDoS攻击主要分为了L4攻击和L7攻击（HTTP DDOS）**
 
-![image](https://github.com/mayjack0312/image/blob/main/OSI%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B.png)
+<div align=center><img src="https://github.com/mayjack0312/image/blob/main/OSI%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B.png"></div>
 
 <center>L4即传输层，L7即应用层</center>
 
