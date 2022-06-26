@@ -50,7 +50,7 @@ Aria2的强大之处在于丰富的自定义配置和超低的资源消耗，启
 
 NAS操作系统比如像群辉、Open­Medi­aVault、Un­raid等都带有Docker功能，使得我们可以方便的部署Aria2等下载工具。
 
-[Aria2 Pro](https://github.com/mayjack0312/Aria2-Pro-Docker)是博主基于[Aria2完美配置](https://github.com/mayjack0312/aria2.conf)方案精心制作的Docker镜像，使用它你不会遇到其它Aria2 Docker方案会遇到的无法下载、失任务进度、重复下载等现象，而且还有相当高的可玩性和自定义性。感兴趣的小伙伴可以去查看[说明文档]()。
+[Aria2 Pro](https://github.com/mayjack0312/Aria2-Pro-Docker)是基于[Aria2完美配置](https://github.com/mayjack0312/aria2.conf)方案精心制作的Docker镜像，使用它你不会遇到其它Aria2 Docker方案会遇到的无法下载、失任务进度、重复下载等现象，而且还有相当高的可玩性和自定义性。感兴趣的小伙伴可以去查看[说明文档]()。
 
 ### 使用VPS离线下载
 
