@@ -125,4 +125,3 @@ http://aria2c.com/#!/settings/rpc/set/ws/233.233.233.233/6800/jsonrpc/UDNURVJY
 - 修改Aria2配置文件后，要先关闭AriaNg再重启Aria2进程，否则AriaNg可能会传递之前缓存的配置给Aria2，这可能会导致修改的配置没有生效。理论上其它前端面板也是这样。（待讨论）
 - HTTP协议的**RPC请求方式**只建议使用POST，否则可能导致BT种子无法传递到Aria2服务端。
 - BT下载多文件时，若想取消部分文件，需先暂停任务后才能进行勾选。
-
