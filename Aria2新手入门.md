@@ -50,7 +50,7 @@ Aria2的强大之处在于丰富的自定义配置和超低的资源消耗，启
 
 NAS操作系统比如像群辉、Open­Medi­aVault、Un­raid等都带有Docker功能，使得我们可以方便的部署Aria2等下载工具。
 
-[Aria2 Pro](https://github.com/mayjack0312/Aria2-Pro-Docker)是基于[Aria2完美配置](https://github.com/mayjack0312/aria2.conf)方案精心制作的Docker镜像，使用它你不会遇到其它Aria2 Docker方案会遇到的无法下载、失任务进度、重复下载等现象，而且还有相当高的可玩性和自定义性。感兴趣的小伙伴可以去查看[说明文档]()。
+[Aria2 Pro](https://github.com/mayjack0312/Aria2-Pro-Docker)是基于[Aria2完美配置](https://github.com/mayjack0312/aria2.conf)方案精心制作的Docker镜像，使用它你不会遇到其它Aria2 Docker方案会遇到的无法下载、失任务进度、重复下载等现象，而且还有相当高的可玩性和自定义性。感兴趣的小伙伴可以去查看说明文档。
 
 ### 使用VPS离线下载
 
@@ -73,13 +73,13 @@ VPS毕竟容量和流量有限，而一些大容量不限速的网盘（比如 O
 
 ![image](https://cdn.jsdelivr.net/gh/mayjack0312/image@main/2022/06/25/20220625000834.png)
 
-根据《[Aria2+Rclone实现OneDrive、Google Drive等网盘离线下载]()》这篇文章进行简单的配置，再配合[AriaNg](https://github.com/mayswind/AriaNg)下载，可能喝口水、上个厕所的时间，你需要的资源就在网盘上了。至于取回可以去相应的网盘下载，还可以使用像[OLAINDEX](https://github.com/WangNingkai/OLAINDEX)这样的OneDrive目录索引程序搭建下载站，不仅方便自己取回，也方便分享。这样与百度网盘的离线下载体验几乎没有什么区别了，甚至可能更好，毕竟没有资源上的限制。
+根据《[高级进阶组合玩法——Aria2+Rclone实现OneDrive、Google Drive等网盘离线下载](https://github.com/mayjack0312/my-blog/blob/main/%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6%E7%BB%84%E5%90%88%E7%8E%A9%E6%B3%95%E2%80%94%E2%80%94Aria2%2BRclone%E5%AE%9E%E7%8E%B0OneDrive%E3%80%81Google%20Drive%E7%AD%89%E7%BD%91%E7%9B%98%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD.md)》这篇文章进行简单的配置，再配合[AriaNg](https://github.com/mayswind/AriaNg)下载，可能喝口水、上个厕所的时间，你需要的资源就在网盘上了。至于取回可以去相应的网盘下载，还可以使用像[OLAINDEX](https://github.com/WangNingkai/OLAINDEX)这样的OneDrive目录索引程序搭建下载站，不仅方便自己取回，也方便分享。这样与百度网盘的离线下载体验几乎没有什么区别了，甚至可能更好，毕竟没有资源上的限制。
 
 ### 百度网盘转存到其它网盘
 
 由于中国大陆未来对互联网的政策不明朗，以及近几年各种网盘倒闭、百度网限速等因素，把百度网盘里的资源转出是个很好的选择。
 
-百度网盘转存是上个技巧的延伸，只不过是下载源变成了百度网盘，需要用到第三方百度网盘客户端。实现方法可以看《[百度网盘转存到OneDrive、Google Drive等其他网盘]()》这篇文章。
+百度网盘转存是上个技巧的延伸，只不过是下载源变成了百度网盘，需要用到第三方百度网盘客户端。实现方法可以看《[附加玩法——百度网盘转存OneDrive、Google Drive等其他网盘](https://github.com/mayjack0312/my-blog/blob/main/%E9%99%84%E5%8A%A0%E7%8E%A9%E6%B3%95%E2%80%94%E2%80%94%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%BD%AC%E5%AD%98OneDrive%E3%80%81Google%20Drive%E7%AD%89%E5%85%B6%E4%BB%96%E7%BD%91%E7%9B%98.md)》这篇文章。
 
 ## 相关资料集
 
@@ -111,4 +111,3 @@ Photon|基于Aria2的下载工具，功能简单，仅能作为本地下载工�
 
 - Aria2 manager
 - Aria2助手
-
