@@ -30,7 +30,7 @@ Aria2是一个功能非常强大且功能非常齐全的下载工具，它支持
 
 ![image](https://cdn.jsdelivr.net/gh/mayjack0312/image@main/2022/06/24/20220624234604.png)
 
-在[Motrix](https://motrix.app/)出现前。如果需要在Win­dows电脑上使用Aria2，首先就需要了解如何配置Aria2，这是相当复杂的过程，在我刚接触Aria2时，经历过很长一段时间折腾，才终于写下了《[在Windows中使用Aria2]()》这篇教程。
+在[Motrix](https://motrix.app/)出现前。如果需要在Win­dows电脑上使用Aria2，首先就需要了解如何配置Aria2，这是相当复杂的过程，在我刚接触Aria2时，经历过很长一段时间折腾，才终于写下了《[在Windows中使用Aria2](https://github.com/mayjack0312/my-blog/blob/main/%E5%9C%A8Windows%E4%B8%AD%E4%BD%BF%E7%94%A8Aria2.md)》这篇教程。
 
 Aria2的强大之处在于丰富的自定义配置和超低的资源消耗，启动后内存仅占用4M左右，而Motrix的UI由于是基于Elec­tron开发，所以启动后达到了惊人的200M，所以在低配置的机器上使用体验是相当糟糕的，而且设置选项上并没有给太多的自定义空间，难免有些遗憾。
 
@@ -61,7 +61,7 @@ NAS操作系统比如像群辉、Open­Medi­aVault、Un­raid等都带有Docker
 
 ![image](https://cdn.jsdelivr.net/gh/mayjack0312/image@main/2022/06/24/20220624235952.png)
 
-如何操作呢？只需要在VPS上使用[Aria2一键安装管理脚本增强版]()或者[Aria2 Pro](https://github.com/mayjack0312/Aria2-Pro-Docker)(Docker)进行部署，使用前端面板比如Ar­i­aNg连接到VPS上的Aria2后端程序，最后只需要下载这个操作即可。前后端连接的具体方法可以看《[Aria2前端面板(GUI)AriaNg 使用教程]()》。
+如何操作呢？只需要在VPS上使用Aria2一键安装管理脚本增强版或者[Aria2 Pro](https://github.com/mayjack0312/Aria2-Pro-Docker)(Docker)进行部署，使用前端面板比如Ar­i­aNg连接到VPS上的Aria2后端程序，最后只需要下载这个操作即可。前后端连接的具体方法可以看《[Aria2前端面板(GUI)AriaNg 使用教程](https://github.com/mayjack0312/my-blog/blob/main/Aria2%E5%89%8D%E7%AB%AF%E9%9D%A2%E6%9D%BF%EF%BC%88GUI%E3%80%81WebUI%EF%BC%89AriaNg%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)》。
 
 ![image](https://cdn.jsdelivr.net/gh/mayjack0312/image@main/2022/06/25/20220625000420.png)
 
