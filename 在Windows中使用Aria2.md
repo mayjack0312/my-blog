@@ -178,12 +178,12 @@ Aria2是命令行下载器，是没有界面的，需要配合前端面板才能
 
 最简单的方式就是访问这几个网址：
 
-AriaNg：http://ariang.mayswind.net/latest（强烈推荐）
-[WebUI-Aria2](https://github.com/ziahamza/webui-aria2)：/
-Photon-WebUI：/
-[YAAW中文版](https://github.com/aa65535/yaaw-zh-hans)：http://aria2c.com/
+AriaNg：http://ariang.mayswind.net/latest（强烈推荐）  
+[WebUI-Aria2](https://github.com/ziahamza/webui-aria2)：/  
+Photon-WebUI：/  
+[YAAW中文版](https://github.com/aa65535/yaaw-zh-hans)：http://aria2c.com/  
 
-使用教程可参考《[Aria2前端面板AriaNg使用教程]()》
+使用教程可参考《[Aria2前端面板AriaNg使用教程](https://github.com/mayjack0312/my-blog/blob/main/Aria2%E5%89%8D%E7%AB%AF%E9%9D%A2%E6%9D%BF%EF%BC%88GUI%E3%80%81WebUI%EF%BC%89AriaNg%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)》
 
 ### 本地程序
 
