@@ -78,3 +78,4 @@ service aria2 restart
 当进行完以上所有操作，现在下载文件就会自动上传至相应的网盘。
 
 Aria2是命令行后端软件，需要配合前端GUI才能有更好的使用体验，对于从来没有接触过的萌新，建议去看《[Aria2前端面板（GUI、WebUI）AriaNg使用教程](https://github.com/mayjack0312/my-blog/blob/main/Aria2%E5%89%8D%E7%AB%AF%E9%9D%A2%E6%9D%BF%EF%BC%88GUI%E3%80%81WebUI%EF%BC%89AriaNg%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)》来了解相关基础知识。
+
