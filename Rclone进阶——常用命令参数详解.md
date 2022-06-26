@@ -43,7 +43,7 @@ curl https://rclone.org/install.sh | sudo bash
 
 ## Rclone设置
 
-`rclone config` —— 进入交互式配置选项，进行添加、删除、管理网盘等操作。详细操作参见：《[Rclone进阶——安装配置 连接OneDrive和Google Drive]()》
+`rclone config` —— 进入交互式配置选项，进行添加、删除、管理网盘等操作。详细操作参见：《[Rclone进阶——安装配置 连接OneDrive和Google Drive](https://github.com/mayjack0312/my-blog/blob/main/Rclone%E8%BF%9B%E9%98%B6%E2%80%94%E2%80%94%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%20%E8%BF%9E%E6%8E%A5OneDrive%E5%92%8CGoogle%20Drive.md)》
 
 `rclone config file` —— 显示配置文件的路径，一般配置文件在 `~/.config/rclone/rclone.conf`
 
@@ -177,4 +177,3 @@ rclone中的每个选项都可以通过环境变量设置。环境变量的名�
 - `RCLONE_CACHE_CHUNK_SIZE` —— 块的大小，默认5M，理论上是越大上传速度越快，同时占用内存也越多。如果设置得太大，可能会导致进程中断。
 - `RCLONE_CACHE_CHUNK_TOTAL_SIZE` —— 块可以在本地磁盘上占用的总大小，默认10G。
 - `RCLONE_IGNORE_ERRORS=true` —— 跳过错误。
-
