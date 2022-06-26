@@ -19,7 +19,7 @@
 
 ## 安装及配置自动上传脚本
 
-参考《[Aria2+Rclone实现OneDrive、Google Drive离线下载功能]()》这篇教程来了解Aria2的安装和配置、Rclone的安装和配置及自动上传脚本的配置详细过程，这里不再赘述。
+参考《[高级进阶组合玩法——Aria2+Rclone实现OneDrive、Google Drive等网盘离线下载](https://github.com/mayjack0312/my-blog/blob/main/%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6%E7%BB%84%E5%90%88%E7%8E%A9%E6%B3%95%E2%80%94%E2%80%94Aria2%2BRclone%E5%AE%9E%E7%8E%B0OneDrive%E3%80%81Google%20Drive%E7%AD%89%E7%BD%91%E7%9B%98%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD.md)》这篇教程来了解Aria2的安装和配置、Rclone的安装和配置及自动上传脚本的配置详细过程，这里不再赘述。
 
 ## 设置第三方百度网盘工具
 
