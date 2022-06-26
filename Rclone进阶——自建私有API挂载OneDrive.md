@@ -269,7 +269,7 @@ touch test && rclone move test od-e5-api:
 
 ## 挂载OneDrive
 
-如果你需要挂载到本地目录，可以参考《[Rclone使用 —— 挂载OneDrive、Google Drive等网盘(Linux)]()》
+如果你需要挂载到本地目录，可以参考《[Rclone使用 —— 挂载OneDrive、Google Drive等网盘(Linux)](https://github.com/mayjack0312/my-blog/blob/main/Rclone%E8%BF%9B%E9%98%B6%E2%80%94%E2%80%94%E6%8C%82%E8%BD%BDOneDrive%E3%80%81Google%20Drive%E7%AD%89%E7%BD%91%E7%9B%98(Linux).md)》
 
 ## 其它说明
 
