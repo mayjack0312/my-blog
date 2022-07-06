@@ -40,41 +40,41 @@
 
 #### KoolShare iStoreOS
 
-默认登录ip：http://192.168.100.1
-账号 ：root
-默认密码：password
-1、r5s-sdcard-xxxx.img.gz为写盘文件，不需要解压，可直接写入TF卡启动。
-2、r5s-update-xxxx.img为另外的升级方法使用的固件，具体请看[链接](https://doc.linkease.com/zh/guide/istoreos/install_r5s.html)
+默认登录ip：http://192.168.100.1  
+账号 ：root  
+默认密码：password  
+1.r5s-sdcard-xxxx.img.gz为写盘文件，不需要解压，可直接写入TF卡启动。  
+2.r5s-update-xxxx.img为另外的升级方法使用的固件，具体请看[链接](https://doc.linkease.com/zh/guide/istoreos/install_r5s.html)
 
 #### 骷髅头 DHDAXCW
 
-R2C默认登录ip：192.168.2.1
-R2S&R4S默认ip：192.168.11.1
-账号 ：root
+R2C默认登录ip：192.168.2.1  
+R2S&R4S默认ip：192.168.11.1  
+账号 ：root  
 密码：password
 
 #### Kiddin9
 
-自行编译：https://supes.top
+自行编译：https://supes.top  
 R2C默认登录ip：op/或10.0.0.1(若后台无法打开，请尝试插拔交换wan、lan网线顺序)
 
 #### QiuSimons（404）
 
-这个大佬的源码好像都是基于Docker的
+这个大佬的源码好像都是基于Docker的  
 如有需要使用的请自行去大佬的GitHub Releases
 
 #### Quintus Chu（502）
 
 ##### R2C+R2S+R4S
 
-默认登录ip：192.168.1.1
-账号：root
+默认登录ip：192.168.1.1  
+账号：root  
 密码：默认无密码（登录后尽快设置密码）
 
 ##### R4S独立版
 
-默认登录ip：192.168.1.1
-账号：root
+默认登录ip：192.168.1.1  
+账号：root  
 密码：默认无密码（登录后尽快设置密码）
 
 #### SuLingGG
@@ -91,8 +91,8 @@ R2C默认登录ip：op/或10.0.0.1(若后台无法打开，请尝试插拔交换
 
 #### Chuck
 
-默认登录ip：192.168.33.1
-账号：root
+默认登录ip：192.168.33.1  
+账号：root  
 密码：fa
 
 ---
@@ -101,9 +101,9 @@ R2C默认登录ip：op/或10.0.0.1(若后台无法打开，请尝试插拔交换
 
 #### Dayong
 
-默认登录ip：192.168.2.1
-账号：root
-密码：password
+默认登录ip：192.168.2.1  
+账号：root  
+密码：password  
 
 #### FriendlElec
 
@@ -111,8 +111,8 @@ R2C默认登录ip：op/或10.0.0.1(若后台无法打开，请尝试插拔交换
 
 #### Song Chenwen
 
-默认登录ip：192.168.2.1
-账号：root
+默认登录ip：192.168.2.1  
+账号：root  
 密码：password
 
 #### MeltNet
@@ -123,11 +123,11 @@ R2C默认登录ip：op/或10.0.0.1(若后台无法打开，请尝试插拔交换
 
 ### 注意事项
 
-都是ARM架构的，X86_64需自行构建
-后台ip、账户、密码——>你用谁的固件就找谁的
-尽量不要用现成的恢复备份（当然，部分config也给你了）
-WAN和LAN自己区分(不同固件也会导致这两个口的使用不同)
-以上版本都是基于**正式版**（相关源码、with的Docker以及其他版本需自行去对应的GitHub Releases下载）
+都是ARM架构的，X86_64需自行构建  
+后台ip、账户、密码——>你用谁的固件就找谁的  
+尽量不要用现成的恢复备份（当然，部分config也给你了）  
+WAN和LAN自己区分(不同固件也会导致这两个口的使用不同)  
+以上版本都是基于**正式版**（相关源码、with的Docker以及其他版本需自行去对应的 **GitHub Releases**下载）
 
 ### 友链
 
